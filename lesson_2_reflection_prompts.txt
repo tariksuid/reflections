@@ -1,6 +1,7 @@
-What happens when you initialize a repository? Why do you need to do it?
-
+1-What happens when you initialize a repository? Why do you need to do it?
 An empty repo. will be added to may file lists .. ls -a 
 a holder for the commit history
-I HATE LIFE
-FUCK , fUCK `
+
+2-How is the staging area different from the working directory and the repository? What value do you think it offers?
+- it's a connection between the wd and the repo .. > the name of the files which have been modified and not commited yet.
+hell hell hell
