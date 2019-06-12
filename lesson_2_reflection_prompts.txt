@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+An empty repo. will be added to may file lists .. ls -a 
+a holder for the commit history
+I HATE LIFE
+FUCK , fUCK `
